@@ -37,6 +37,6 @@ The project applies concepts from **CFA Level I Fixed Income**. It is an indepen
 
 The complete analysis, calculations, visualizations, and outputs are available in:
 
-`Bond_Price_Sensitivity_Analysis_Using_Python.ipynb`
+`Bond_Price_Sensitivity_Analysis_Using_Python.ipynb
 
 
